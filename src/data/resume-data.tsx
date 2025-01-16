@@ -2,34 +2,34 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 import { PenIcon, YoutubeIcon } from "lucide-react";
 
 export const RESUME_DATA = {
-  name: "Mukesh Murugan",
-  initials: "MM",
-  avatar: "/mukesh_murugan.png",
+  name: "Precious Edmund",
+  initials: "PE",
+  avatar: "/preciousedmund_banner.png",
   resume: "/cv.pdf",
-  location: "Trivandrum, Kerala, India",
-  url: "https://cv.codewithmukesh.com",
-  ogImage: "/mukeshmurugan_banner.png",
-  twitter: "@iammukeshm",
+  location: "Lagos, Nigeria",
+  url: "https://preciouseddy.github.io/pedmund/",
+  ogImage: "/edmund_precious.png",
+  twitter: "@PreshyEdmund",
   about:
-    "Software Engineer focused on building scalable services on the cloud.",
+    "Cloud Engineer specializing in designing and deploying scalable cloud-based solutions.",
   summary:
-    "Software Engineer with 7+ Years of Experience in Backend development with .NET, Go, Docker, Kubernetes, Terraform and Cloud Technologies like AWS.",
+    "Cloud Engineer with 7+ years of experience in backend development, specializing in .NET, Go, Docker, Kubernetes, Terraform, and cloud platforms like AWS."
   personalWebsiteUrl: "https://staging.codewithmukesh.com",
   contact: {
     social: [
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/iammukeshm/",
+        url: "https://www.linkedin.com/in/precious-edmund/",
         icon: LinkedInIcon,
       },
       {
         name: "GitHub",
-        url: "https://github.com/iammukeshm",
+        url: "https://github.com/PreciousEddy",
         icon: GitHubIcon,
       },
       {
         name: "X",
-        url: "https://x.com/iammukeshm",
+        url: "https://x.com/PreshyEdmund",
         icon: XIcon,
       },
       {
@@ -46,13 +46,12 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Birla Institute of Technology, Mesra",
-      degree: "Electronics & Communication Engineering",
-      start: "2012",
-      end: "2016",
-      location: "Waljat College Of Applied Science, Oman",
-      gpa: "7.2"
-    },
+      school: "Federal University Of Technology, Oye-Ekiti",
+      degree: "Electrical & Electronics Engineering",
+      start: "2021",
+      end: "2023",
+      location: "Oye-Ekiti, Ekiti State",
+ },
   ],
   work: [
     {
